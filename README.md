@@ -10,6 +10,8 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
   - [Java](#java)
   - [Node.js](#nodejs)
   - [Python](#python)
+- [Videos](#videos)
+  - [Youtube](#youtube)
 - [Courses](#courses)
   - [Pluralsight](#pluralsight)
 
@@ -35,7 +37,12 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
   
 ### Python
   - [Azure Cosmos DB Python SDK for SQL API](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-sdk-python) - Official Azure Cosmos DB Python SDK for SQL API
-  
+
+## Videos
+### Youtube
+  - [Azure Cosmos DB - Partitioning](https://www.youtube.com/watch?v=SS6WrQ-HJ30)
+  - [Azure Cosmos DB - Request Units](https://www.youtube.com/watch?v=stk5WSp5uX0)
+  - [Learn about Azure Cosmos DB multi-master](https://www.youtube.com/watch?v=3qus3EqNC58)
   
 ## Courses
 ### Pluralsight
