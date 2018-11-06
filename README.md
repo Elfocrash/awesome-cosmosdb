@@ -43,6 +43,7 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
   - [Azure Cosmos DB - Partitioning](https://www.youtube.com/watch?v=SS6WrQ-HJ30)
   - [Azure Cosmos DB - Request Units](https://www.youtube.com/watch?v=stk5WSp5uX0)
   - [Learn about Azure Cosmos DB multi-master](https://www.youtube.com/watch?v=3qus3EqNC58)
+  - [Azure Cosmos DB - Automatic Indexing](https://www.youtube.com/watch?v=uFu2D-GscG0)
   
 ## Courses
 ### Pluralsight
