@@ -10,6 +10,7 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
   - [Java](#java)
   - [Node.js](#nodejs)
   - [Python](#python)
+  - [Powershell](#powershell)
 - [Videos](#videos)
   - [Youtube](#youtube)
 - [Courses](#courses)
@@ -38,6 +39,9 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
   
 ### Python
   - [Azure Cosmos DB Python SDK for SQL API](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-sdk-python) - Official Azure Cosmos DB Python SDK for SQL API
+  
+### Powershell
+  - [CosmosDB Powershell Module](https://github.com/PlagueHO/CosmosDB) - PowerShell Module for working with Azure Cosmos DB
 
 ## Videos
 ### Youtube
