@@ -20,6 +20,7 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
 ### Documentation
   - [CosmosDB introduction](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)
   - [CosmosDB documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/)
+  - [CosmosDB pricing](https://azure.microsoft.com/en-gb/pricing/details/cosmos-db/)
   
 ## Libraries
 ### C#/.NET ###
