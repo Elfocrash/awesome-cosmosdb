@@ -11,6 +11,8 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
   - [Node.js](#nodejs)
   - [Python](#python)
   - [Powershell](#powershell)
+- [Articles](#articles)
+  - [Medium](#medium)
 - [Videos](#videos)
   - [Youtube](#youtube)
 - [Courses](#courses)
@@ -43,6 +45,10 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
   
 ### Powershell
   - [CosmosDB Powershell Module](https://github.com/PlagueHO/CosmosDB) - PowerShell Module for working with Azure Cosmos DB
+
+## Articles
+### Medium
+  - [Azure Cosmos DB + Functions Cookbook— static client](https://medium.com/microsoftazure/azure-cosmos-db-functions-cookbook-static-client-874072aef28e) - Published on Jan 16, 2018
 
 ## Videos
 ### Youtube
