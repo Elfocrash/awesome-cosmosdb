@@ -39,6 +39,7 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
   
 ### Node.js
   - [Azure Cosmos DB Node.js SDK for SQL API](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-sdk-node) - Official Azure Cosmos DB Node.js SDK for SQL API
+  - [Cosmos Sign](https://github.com/southpolesteve/cosmos-sign) - Utility library for signing Azure Cosmos tokens and generating headers
   
 ### Python
   - [Azure Cosmos DB Python SDK for SQL API](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-sdk-python) - Official Azure Cosmos DB Python SDK for SQL API
