@@ -31,6 +31,7 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
   - [.NET Bulk Executor](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-sdk-bulk-executor-dot-net)
   - [.NET Change Feed Processor SDK](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-sdk-dotnet-changefeed)
   - [Gremlin.Net.CosmosDb](https://github.com/evo-terren/Gremlin.Net.CosmosDb) - A helper library to be used in conjuntion with  Gremlin.Net.
+  - [NServiceBus.Persistence.CosmosDB](https://docs.particular.net/previews/cosmosdb/) - NServiceBus persistence to store sagas and outbox data
 
 ### Java
   - [Azure Cosmos DB Java SDK](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-sdk-java) - Official Azure Cosmos DB Java SDK for SQL API
